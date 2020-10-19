@@ -1,9 +1,9 @@
 import React from 'react';
 import HeroSection from '../../HeroSection';
-import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour } from './Data';
+import { homeObjOne} from './Data';
 import Pricing from '../../Pricing';
 
-function Home() {
+function Services() {
   return (
     <>
      
@@ -13,4 +13,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Services;
