@@ -20,5 +20,5 @@ export const Button= ({children,type,onClick,buttonStyle,buttonSize,buttonColor}
         onClick={onClick} type={type}>
          {children}   
         </button>
-    )
-}
+    );
+};
